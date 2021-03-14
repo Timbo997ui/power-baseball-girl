@@ -3,7 +3,7 @@ layout: post
 title:  "强棒少女-的莫曲里"
 background: "/assets/images/about.jpg"
 category: "棒球"
-tags: 生活
+tags: 生活 feature
 ---
 
 ### 的莫曲里
