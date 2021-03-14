@@ -3,7 +3,7 @@ layout: post
 title:  "强棒介绍"
 background: "/assets/images/logo.png"
 category: "简介"
-tags: 由来 feature
+tags: 由来
 ---
   
 ## 强棒介绍
