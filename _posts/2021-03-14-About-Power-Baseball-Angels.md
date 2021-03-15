@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "强棒天使项目"
+title:  "强棒"
 background: "/assets/images/logo2.jpg"
 category: "简介"
 tags: 强棒
