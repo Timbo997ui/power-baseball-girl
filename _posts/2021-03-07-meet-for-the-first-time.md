@@ -5,7 +5,7 @@ background: "/assets/images/group02.png"
 category: "棒球"
 tags: 曲里6问
 ---
-曲里6问
+
 #### 1. 曲里的小名是？
 **伍牛**，因为家人就这样叫她~
 #### 2. 曲里什么时候开始学习棒球的？
