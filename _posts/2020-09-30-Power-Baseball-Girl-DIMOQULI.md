@@ -3,7 +3,7 @@ layout: post
 title:  "强棒少女-的莫曲里"
 background: "/assets/images/self01.jpg"
 category: "棒球"
-tags: 我叫曲里
+tags: 我叫曲里 feature
 ---
 
 ### 的莫曲里  
