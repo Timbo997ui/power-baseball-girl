@@ -15,7 +15,7 @@ tags: 强棒
 ![](https://i.loli.net/2021/03/14/EiCNmyloVrnaSKh.png)
 
 > 她们是“彝族之光”女子棒球队。———孙岭峰
-
+---
 
 ## 强棒天使项目
 ### 起源
